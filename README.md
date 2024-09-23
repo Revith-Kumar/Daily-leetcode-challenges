@@ -62,9 +62,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
