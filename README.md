@@ -69,12 +69,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
+| [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
+| [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
 <!---LeetCode Topics End-->
