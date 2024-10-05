@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0058-length-of-last-word](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0058-length-of-last-word) |
 | [0214-shortest-palindrome](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
+| [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
+| [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -103,4 +106,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
