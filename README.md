@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 ## String Matching
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Stack
 |  |
 | ------- |
