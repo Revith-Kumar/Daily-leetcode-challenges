@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
 ## String
 |  |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
