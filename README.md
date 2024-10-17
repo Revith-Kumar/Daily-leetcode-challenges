@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
+| [0670-maximum-swap](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0670-maximum-swap) |
 ## String
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0011-container-with-most-water) |
+| [0670-maximum-swap](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
