@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0567-permutation-in-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0022-generate-parentheses) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
 |  |
