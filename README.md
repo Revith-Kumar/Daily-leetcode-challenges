@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0011-container-with-most-water) |
+| [0054-spiral-matrix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 ## Backtracking
 |  |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
