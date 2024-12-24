@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 | [0386-lexicographical-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0386-lexicographical-numbers) |
 ## Trie
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Union Find
@@ -186,9 +188,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0100-same-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0100-same-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
