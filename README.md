@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
+| [1063-best-sightseeing-pair](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1063-best-sightseeing-pair) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0059-spiral-matrix-ii](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0130-surrounded-regions) |
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
+| [1063-best-sightseeing-pair](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1063-best-sightseeing-pair) |
 | [1694-make-sum-divisible-by-p](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
