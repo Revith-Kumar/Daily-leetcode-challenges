@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
 | ------- |
