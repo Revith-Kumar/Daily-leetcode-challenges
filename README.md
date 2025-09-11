@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2887-sort-vowels-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0217-contains-duplicate) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2887-sort-vowels-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2887-sort-vowels-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
