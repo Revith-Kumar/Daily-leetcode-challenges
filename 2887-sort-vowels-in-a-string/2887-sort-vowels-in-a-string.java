@@ -10,12 +10,11 @@ class Solution {
         }
         char[] ah = rev.toString().toCharArray();
         Arrays.sort(ah);
-        StringBuilder sortedSb = new StringBuilder(new String(ah));
-         char[] a = sortedSb.toString().toCharArray();
+        String a = new String(ah);
         int j=0;
         for(int i=0;i<s.length();i++){
            if(ch[i]=='#'){
-            ch[i]=a[j];
+            ch[i]=a.charAt(j);
             j++;
            }
         }
