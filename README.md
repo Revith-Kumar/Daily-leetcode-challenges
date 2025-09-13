@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0002-add-two-numbers) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0241-different-ways-to-add-parentheses) |
 | [0670-maximum-swap](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0670-maximum-swap) |
+| [3462-vowels-game-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3462-vowels-game-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2887-sort-vowels-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3462-vowels-game-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3462-vowels-game-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,4 +209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/0101-symmetric-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Revith-Kumar/Daily-leetcode-challenges/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
